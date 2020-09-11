@@ -24,7 +24,7 @@
     "graphql": "^14.0.2",
     "graphql-tools": "^4.0.0",
     "graphql-type-json": "^0.3.1",
-    "mongodb": "^3.1.6",
+    "mongodb": "^3.1.13",
     "node-fetch": "^2.2.0",
     "uuid": "^3.3.2",
     "validator": "^10.8.0"
